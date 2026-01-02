@@ -12,7 +12,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Java%20Developer%20Roadmap&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Beginner%20to%20Master%20%7C%202026%20Edition&descAlignY=52&descSize=18"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%98%95+Master+Java+Development;%F0%9F%9A%80+From+Zero+to+Production+Ready;%F0%9F%8E%AF+12+Months+%7C+50%2B+Projects+%7C+100%25+Free" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=☕+Master+Java+Development;🚀+From+Zero+to+Production+Ready;🎯+12+Months+|+50%2B+Projects+|+100%25+Free"
+  alt="Master Java Development Roadmap"
+/>
 
 <!-- Badges Row 1 -->
 <p>
